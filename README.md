@@ -2,6 +2,20 @@
 
 ## ProjectTitle: E-Commerce Sales Analysis
 
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualization](#data-visualization)
+
 ### Project Overview 
 ---
 This data Analysis project aims to generate insights into the sales performance of the E-Commerce project over the last year. By analysis the various parameters in the data recieved, we seek to gather enough insights to make reasnable decisions whuch then eanbles us to tell compelling stories around our data from the insights gotten and to know the best performance from our data. 
@@ -41,5 +55,10 @@ This is where we include some basic lines of code or queries or even some of the
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
-    
 
+### Data Visualization
+
+😆
+|Heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
+|Table 1|Table 2|Table 3|
